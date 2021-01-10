@@ -106,8 +106,14 @@
 
 
 #### 37. Copy Website
+*  view source 
+* copy semua . paste.
+* dah boleh guna.
+* save dalam html. 
+* buka dalam browser.
 
 #### 38. HTML Challenge
+*
 
 #### 39. HTML Lesson Files.
 
