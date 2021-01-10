@@ -123,3 +123,12 @@
 #### 41. Optional Exercise.
 Quotes. > "use the current knowledge that you have to move onto the next section, as you will be constantly improving and learning new things about HTML as you code along in this course."
 
+---
+## CSS
+
+#### CSS Properties
+#### Selector
+#### Text n Font
+#### Image in CSS
+#### Box Model 
+#### px vs em vs rem
