@@ -127,8 +127,24 @@ Quotes. > "use the current knowledge that you have to move onto the next section
 ## CSS
 
 #### CSS Properties
+* Boleh inlcude file css. guna link punya tag.
+``` <link>```
+* [CSS Trick](https://css-tricks.com/); website untuk buat css.
+* look up and learn.
+
+     ```
+    tag_apa{
+      properties: value;
+
+    }
+    ```
+
 #### Selector
+* [Selector](https://www.w3schools.com/cssref/css_selectors.asp) dalam css.
+
 #### Text n Font
+
+
 #### Image in CSS
 #### Box Model 
 #### px vs em vs rem
