@@ -79,6 +79,15 @@
     ```
 
 #### 34. Submit Form
+* sebelum boleh submit. pastikan semua input tag dah bernama. contoh kat bawah fname adalah name kepada input First Name
+  ``` First Name: <input type="text" name="fname"></input>```
+
+* bila kita submit, nanti dia akan hantar url kat url chrome.
+* post/get
+* post tu kita tak tunjuk data yang akan disend ke server.
+* action = "action.php", dia akan hantar ke mana.
+* ? property and value.
+
 
 #### 35. HTML Tags 3
 
