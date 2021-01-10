@@ -50,4 +50,25 @@
 
 
 ---
+## Advance HTML
+
+#### 32. HTML Forms
+
+#### 33. HTML Forms 2
+
+#### 34. Submit Form
+
+#### 35. HTML Tags 3
+
+#### 36. HTML vs HTML 5
+#### 37. Copy Website
+
+#### 38. HTML Challenge
+
+#### 39. HTML Lesson Files.
+
+#### 40. Exercise: HTML QUiz
+
+#### 41. Optional Exercise.
+
 
