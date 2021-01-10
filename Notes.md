@@ -113,9 +113,10 @@
 * buka dalam browser.
 
 #### 38. HTML Challenge
-*
+* Dia suruh buat benda2 macam tadi.
 
 #### 39. HTML Lesson Files.
+* download dan push dalam git.
 
 #### 40. Exercise: HTML QUiz
 
