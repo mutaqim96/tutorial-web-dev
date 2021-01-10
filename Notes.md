@@ -90,6 +90,10 @@
 
 
 #### 35. HTML Tags 3
+* Comment untuk bagi orang lain faham code kau. kalau korang edit serentak.
+* Div tag - untuk multiple line element.
+* span tag - untuk inline element
+* boleh letak style.
 
 #### 36. HTML vs HTML 5
 #### 37. Copy Website
