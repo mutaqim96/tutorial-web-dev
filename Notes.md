@@ -96,6 +96,15 @@
 * boleh letak style.
 
 #### 36. HTML vs HTML 5
+* Lain browser lain penerimaan terhadap sistem kita.
+* So, pencipta internet dulu. buat satu bahasa atau standard yang semua developper kene follow supaya semua website atau web app boleh interact dngn browser lain.
+* protocol
+* html 5. latest evolution
+* dah ada tagging baru
+* article, aside, details, figcaption,... semantics element.
+* supaya machine tu paham.
+
+
 #### 37. Copy Website
 
 #### 38. HTML Challenge
