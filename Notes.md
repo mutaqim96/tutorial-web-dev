@@ -53,8 +53,17 @@
 ## Advance HTML
 
 #### 32. HTML Forms
+* Buat form tag
+* isi input.
+* boleh guna Alt + Shift + atas/bawah nak cepat duplicate input
+* input tag tu, self tag
+* kalau letak type. kita boleh buat auto checking.
+* type yang membantu, email, date.
 
+* Macam mana nak guna radio
+* Guna Alt + up/down untuk move line of code
 #### 33. HTML Forms 2
+
 
 #### 34. Submit Form
 
