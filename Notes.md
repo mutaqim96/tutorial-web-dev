@@ -63,7 +63,20 @@
 * Macam mana nak guna radio
 * Guna Alt + up/down untuk move line of code
 #### 33. HTML Forms 2
-
+* sambungan macam mana nak guna checkbox
+* macam mana nak guna dropdown kene guna select
+    ```
+    Car<br>
+    <select>
+      <option value="optionA">Nama option A</option>
+      <option value="optionB">Nama option B</option>
+    </select>
+    ```
+* kalau nak select multiple. tambah multiple punya attribute.
+    ``` <select multiple>
+    <option>...</option>
+    </select>
+    ```
 
 #### 34. Submit Form
 
