@@ -44,7 +44,7 @@
 #### 30. index.html
 * by default. server akan hantar index.html tiap kali user minta apa2  dekat browser
 
-#### Rekative vs Absolute Paths
+#### Relative vs Absolute Paths
 * Relative Path = refer untuk dalam local computer. so, kat mana dia relative kepada index file. daripada index.html kat mana kedudukan resource tu.
 * Absolute path
 
@@ -143,7 +143,14 @@ Quotes. > "use the current knowledge that you have to move onto the next section
 * [Selector](https://www.w3schools.com/cssref/css_selectors.asp) dalam css.
 
 #### Text n Font
+* text-decoration : underline;
+* line-height : 100px.
+* font-size :
+* font-style:weight; 
 
+- font-style bergantung pada apa yang ada dalam localhost.
+- klaau website kita nak letak custom font-style
+- [Google font](https://fonts.google.com/) lepas tu select font. lepast tu. paste link ke file style kau.
 
 #### Image in CSS
 #### Box Model 
