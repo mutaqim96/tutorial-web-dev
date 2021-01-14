@@ -157,3 +157,57 @@ Quotes. > "use the current knowledge that you have to move onto the next section
 
 #### Box Model 
 #### px vs em vs rem
+
+
+#### Critical Random Path
+* render = display
+* kene buat critical random path. supaya browser akan receive dulu style sheet. 
+* css  minify = remove space dekat dalam css file.
+
+#### Flex Box
+```
+.namaContainer{
+  display:flex;
+  otherflexproperty: value;
+}
+
+img{
+  width:450px;
+  heigjt:200px;
+}
+```
+* flex box untuk buat image punya webstie
+* nak letak bnyak2 image
+
+[css-tricks]()
+* untuk buat flexbox yang cantik.
+[flexboxfroggy]()
+
+####  CSS 3
+* css ni standard yang evolve untuk buat design kita better
+* semua browser stuju dengan cara render property.
+```
+
+img{
+  transition alll 1s;
+}
+
+img:hover{
+transfowm: scale(1.1);
+}
+```
+
+* kene check mana satu yang kene support.
+* cara nak test
+```-ms-nama-property: ; ```
+
+[can I use]() website untuk check property kita tu boleh tak guna kat browser2 lain.
+
+#### Responsive UI
+* make sure responsive website.
+* kalau tukar device, kita punya website akan respond kepada device.
+* semua nampak okay tak kisah size device tu.
+
+#### Robot Animation
+* Macma mana nak buat robot tu boleh gerak.
+* insert solution.
